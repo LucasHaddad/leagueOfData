@@ -1,0 +1,12 @@
+{
+  "name": "leagueOfData",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LucasHaddad/leagueOfData.git",
+  "author": "Lucas Haddad <c0011266@vli-logistica.com.br>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "twisted": "^1.44.3"
+  }
+}
